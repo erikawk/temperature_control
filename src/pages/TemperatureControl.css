@@ -1,0 +1,42 @@
+.container__principal {
+  width: 80%;
+  height: 80vh;
+  background: #aad2f779;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+  font-size: 2rem;
+}
+
+.name__room {
+  color: #1182d3;
+  font-weight: bolder;
+}
+
+.container__temperature__principal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.container__temperature {
+  width: 45vh;
+  height: 40vh;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+.container__temperature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #1182d3;
+  font-weight: bold;
+}

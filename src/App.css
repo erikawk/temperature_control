@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+}
+.App {
+  background: url("https://img.myloview.com.br/quadros/ceu-azul-e-nuvem-com-arvores-fundo-da-paisagem-700-98828358.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
