@@ -10,11 +10,13 @@
   flex-direction: column;
   gap: 25px;
   font-size: 2rem;
+  word-spacing: 4px;
 }
 
 .name__room {
-  color: #1182d3;
+  color: #0362a5;
   font-weight: bolder;
+  font-size: 2.8rem;
 }
 
 .container__temperature__principal {
